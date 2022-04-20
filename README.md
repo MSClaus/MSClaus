@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Matheus Souza Claus</h1>
+<h1 align="center">Oi 👋, Eu sou o Matheus Claus</h1>
 <h3 align="center">Sou um entusiasta por ciência e análise de dados</h3>
 <br>
 <div align="center">
