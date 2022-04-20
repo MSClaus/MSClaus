@@ -2,7 +2,7 @@
 <h3 align="center">Sou um entusiasta por ciência e análise de dados</h3>
 <br>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/MSClaus">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MSClaus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSClaus&layout=compact&langs_count=7&theme=dark"/>
 </div>
