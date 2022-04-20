@@ -14,5 +14,11 @@
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
   
+  <div> 
+  <a href="https://www.linkedin.com/in/matheus-souza-claus-99491a76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusclaus@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+  
   ##
  
